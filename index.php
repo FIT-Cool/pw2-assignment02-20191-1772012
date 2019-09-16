@@ -10,8 +10,8 @@ include_once 'db_function/patient_func.php';
         <meta charset="UTF-8">
         <meta name="author" content="Kafka Febian - 1772012">
         <meta name="Description" content="Database Rumah Sakit">
-        <script type="text/javascript" charset="UTF-8" src="datatables.js"></script>
-        <link rel="stylesheet" type="text/css" href="datatables.css">
+        <script type="text/javascript" charset="UTF-8" src="view\datatables.js"></script>
+        <link rel="stylesheet" type="text/css" href="view\datatables.css">
 
     </head>
     <body>
